@@ -4,94 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "4ad502c2ffd29d41",
+        "id": "fbfe86366b7c103c",
         "type": "tabs",
         "children": [
           {
-            "id": "96cd3cffe7c06aa7",
+            "id": "f16a73efa40fd800",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "VSB/2. Rocnik/Site/Images/topologie.png"
+              },
+              "icon": "lucide-image",
+              "title": "topologie"
+            }
+          },
+          {
+            "id": "71ac6fca46285e81",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "VSB/2. Rocnik/Site/Images/topologie1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "topologie1"
+            }
+          },
+          {
+            "id": "832241c24c32776e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "VSB/2. Rocnik/Site/Images/topologie2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "topologie2"
+            }
+          },
+          {
+            "id": "5a1a943764f0c24b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "VSB/2. Rocnik/Site/Images/topologie2.png"
+              },
+              "icon": "lucide-image",
+              "title": "topologie2"
+            }
+          },
+          {
+            "id": "99f359572b08c896",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VSB/2. Rocnik/Site/ip-address.md",
+                "file": "VSB/1. Rocnik/ALG1/ALG1.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c4f225f39af1194f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VSB/2. Rocnik/Site/Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee663fc267a5a50c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VSB/2. Rocnik/Site/ip-address.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36b7dcc46f9a237c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VSB/1. Rocnik/ALG1/Rekurze - To Binary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15403992b88d3d2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VSB/1. Rocnik/ALG1/Rekurze - Exponent.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d436a85c4535cac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VSB/2. Rocnik/E - komerce.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e78a9cbdd0abc83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VSB/2. Rocnik/Site/Networking.md",
-                "mode": "preview",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ALG1"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +90,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -126,7 +107,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -134,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -157,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VSB/2. Rocnik/Site/ip-address.md",
+                "file": "VSB/2. Rocnik/DIS-I/SKRIPTA - Kubesa/MA2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +150,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MA2"
             }
           },
           {
@@ -174,10 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VSB/2. Rocnik/Site/ip-address.md",
+                "file": "VSB/2. Rocnik/DIS-I/SKRIPTA - Kubesa/MA2.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MA2"
             }
           },
           {
@@ -188,7 +177,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -197,8 +188,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VSB/2. Rocnik/Site/ip-address.md"
-              }
+                "file": "VSB/2. Rocnik/DIS-I/SKRIPTA - Kubesa/MA2.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MA2"
             }
           }
         ]
@@ -215,43 +208,54 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "univer:Univer": false,
+      "code-files:Create Code File": false,
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "96cd3cffe7c06aa7",
+  "active": "99f359572b08c896",
   "lastOpenFiles": [
-    "VSB/2. Rocnik/Site/Networking.md",
-    "VSB/2. Rocnik/Site/ip-address.md",
-    "VSB/2. Rocnik/topologie2.png",
-    "VSB/VSB - Informatika.md",
-    "VSB/1. Rocnik/ALG1/Insert Sort.md",
-    "VSB/1. Rocnik/ALG1/Časová složitost algoritmu.md",
     "VSB/1. Rocnik/ALG1/Select Sort.md",
-    "VSB/1. Rocnik/ALG1/Rekurze - To Binary.md",
     "VSB/1. Rocnik/ALG1/Rekurze - Faktorial.md",
     "VSB/1. Rocnik/ALG1/Rekurze - Exponent.md",
-    "VSB/2. Rocnik/Site/zapojeni.jpg",
-    "VSB/2. Rocnik/topologie.png",
+    "VSB/1. Rocnik/ALG1/Insert Sort.md",
+    "VSB/1. Rocnik/ALG1/Časová složitost algoritmu.md",
     "VSB/1. Rocnik/ALG1/Bubble Sort.md",
+    "VSB/2. Rocnik/C-sharp/C - sharp.md",
+    "VSB/2. Rocnik/C-sharp/DU/Reseni/DU1 - Reseni.md",
+    "VSB/2. Rocnik/C-sharp/DU/DU1.md",
+    "VSB/2. Rocnik/Site/ip-address.md",
+    "VSB/2. Rocnik/DIS-I/SKRIPTA - Kubesa/zaklady_diskretni_matematiky.pdf",
+    "VSB/2. Rocnik/DIS-I/SKRIPTA - Kubesa/MA2.pdf",
+    "VSB/Anglictina/International_Express_3d_Upper_Intermediate_SB_240328_221059.pdf",
+    "VSB/2. Rocnik/E - komerce/PROJEKT_KLUB.xlsx",
+    "VSB/2. Rocnik/Site/Projekt/POSKYYYYYYYYYYYYYYYYYY.pdf",
+    "VSB/2. Rocnik/Site/Projekt/~$site.docx",
+    "VSB/2. Rocnik/Site/Projekt/~WRL0005.tmp",
+    "VSB/2. Rocnik/Site/Projekt/~WRD0004.tmp",
+    "VSB/2. Rocnik/Site/Projekt/site.docx",
+    "VSB/2. Rocnik/Site/Projekt/~$SKYYYYYYYYYYYYYYYYYY.pdf",
+    "VSB/2. Rocnik/DIS-I/DIS-I.md",
+    "VSB/2. Rocnik/ALG2/Cviceni/Cvičení 3.md",
+    "VSB/2. Rocnik/ALG2/Cviceni/Cvičení 4.md",
     "VSB/1. Rocnik/ALG1/ALG1.md",
+    "VSB/2. Rocnik/Site/Images/topologie.png",
+    "VSB/2. Rocnik/Site/Images/zapojeni.jpg",
+    "VSB/2. Rocnik/Site/Images/topologie2.png",
+    "VSB/VSB - Informatika.md",
+    "VSB/2. Rocnik/ALG2/ALG2.md",
+    "VSB/1. Rocnik/ALG1/Rekurze - To Binary.md",
+    "VSB/2. Rocnik/E - komerce/E - komerce.md",
+    "Gausova eliminační metoda.md",
+    "VSB/2. Rocnik/E - komerce.md",
+    "VSB/2. Rocnik/C-sharp/DU/Reseni/DU1 - Solution.md",
+    "VSB/2. Rocnik/ALG2/images/gausova_metoda.jpg",
+    "VSB/2. Rocnik/Site/Networking.md",
+    "VSB/2. Rocnik/ALG2/Untitled.md",
     "Insert Sort.md",
     "Rekurze - Internal Search/Merge Sort.md",
-    "VSB/2. Rocnik/E - komerce.md",
-    "Rekurze - Internal Search",
     "VSB/2. Rocnik/Site/20240924_155545.jpg",
-    "VSB/2. Rocnik/Site",
-    "VSB/2. Rocnik",
-    "create a link.md",
-    "VSB",
-    "VSB/1. Rocnik/ALG1",
-    "VSB/1. Rocnik",
-    "Pasted image 20240815201018.png",
-    "sense of control.md",
-    "NeverNote.md",
-    "NoteStar.md",
-    "Adversity Paradox.md",
-    "The Matrix.md",
-    "Red Pill, Blue Pill..md",
-    "Welcome.md"
+    "Pasted image 20240815201018.png"
   ]
 }
